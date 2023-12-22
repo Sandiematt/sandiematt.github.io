@@ -1,0 +1,55 @@
+Sandeep Mathew
+Address: [Your Address]
+Phone: [Your Phone Number]
+Email: [Your Email Address]
+LinkedIn: [Your LinkedIn Profile]
+
+Objective
+A dedicated and diligent BCA student with a strong passion for programming seeking opportunities to apply and enhance skills in programming languages within a dynamic and challenging environment.
+
+Education
+Bachelor of Computer Applications (BCA)
+[University Name], [Location]
+Expected Graduation Date: [Month, Year]
+Relevant Coursework: Programming Fundamentals, Data Structures, Algorithms, Software Engineering.
+
+Skills
+Programming Languages:
+Proficient in: [List of languages like Java, Python, C++, etc.]
+Familiar with: [Other languages or tools you have knowledge of]
+Technical Skills:
+Database Management (SQL)
+Web Development (HTML, CSS)
+Version Control Systems (Git)
+Soft Skills:
+Problem-solving
+Teamwork and collaboration
+Time management
+Projects
+[Project Title]
+Duration: Month/Year - Month/Year
+
+Brief description of the project
+Technologies/Languages used
+Any specific achievements or outcomes
+[Project Title]
+Duration: Month/Year - Month/Year
+
+Brief description of the project
+Technologies/Languages used
+Any specific achievements or outcomes
+Experience
+If applicable, include any internships, part-time jobs, or relevant experiences
+
+[Position Title]
+[Company/Organization Name], [Location]
+Duration: Month/Year - Month/Year
+
+Description of responsibilities and achievements
+Skills utilized or gained
+Certifications
+[Certification Name], Certifying Authority, Year
+Extracurricular Activities
+Mention any relevant clubs, volunteer work, or activities showcasing leadership, teamwork, or additional skills.
+References
+Available upon request.
